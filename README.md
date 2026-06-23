@@ -32,12 +32,11 @@ to detect suspicious high-value activity.
 - account_summary.csv
 
 ## How to Run
-1. Install dependencies:
-pip install pyspark pandas findspark
+1. Install dependencies: pip install -r requirements.txt
 
-2. Launch Jupyter Notebook:
+3. Launch Jupyter Notebook:
 jupyter notebook
 
-3. Open banking_transaction_analysis.ipynb
+4. Open banking_transaction_analysis.ipynb
 
-4. Run all cells
+5. Run all cells
